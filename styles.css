@@ -32,3 +32,31 @@ h1.title{
     height: 50%;
 }
 
+.mid-section {
+    background-color: white; 
+    max-width: 50%;
+    max-height: 40%;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 340px;
+    bottom: 90px;
+
+}
+
+.mid-section h2{
+    text-transform: uppercase;
+    font-weight: 100;
+    text-align: center;
+    
+}
+
+.mid-section p{
+    font-size: 10px;
+}
+
+.vr-headset{
+    position: relative;
+    left: 85px;
+    top: 75px;
+}
